@@ -2,5 +2,5 @@ ParallexListView-Sample
 =======================
 
 
-[![ScreenShot](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](http://youtu.be/vt5fpE0bzSY)
+[![ScreenShot](https://raw.githubusercontent.com/MoshDev/ParallexListView-Sample/master/Screen%20Shot%202014-10-13%20at%203.40.08%20PM.png)](http://youtu.be/iceDFMspgYw)
 
